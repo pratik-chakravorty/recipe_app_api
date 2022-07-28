@@ -1,2 +1,2 @@
-# recipe_app_api
+# Recipe API
 Recipe API made using Django and DRF
